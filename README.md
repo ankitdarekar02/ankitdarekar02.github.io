@@ -31,7 +31,7 @@ ducted thorough testing with the Jest Testing Framework ensuring the delivery of
 Created custom reusable components using micro-frontend approach decreasing its load time by 3.2ms. I have worked on implementing Web Accessibility feature, improving the usability of the site across an additional 15% user base. Developed custom reusable components using micro-frontend approach in React.js decreasing its load time by 3.2ms.
 
 ### **FRONTEND ENGINEER**
-### NAGARRO PVT, LTD
+### PsychX86 Technologies
 
 Worked with UX designers for developing responsive emailers and customer-centric user interfaces from given wireframes. Modularized legacy codebase and provided technical recommendations with typescript implementation pertaining to
 the new functionalities.
