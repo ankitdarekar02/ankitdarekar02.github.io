@@ -1,0 +1,11 @@
+title: Ankit Darekar # your name (or website title) here
+logo: "/photo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Frontend Engineer
+  <br><br>
+  <a href="mailto:ankitdarekar10@gmail.com">ankitdarekar10@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/ankit-darekar/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/ankitdarekar02">Gihub</a> 
+theme: jekyll-theme-minimal
